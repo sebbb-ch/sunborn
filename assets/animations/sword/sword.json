@@ -1,0 +1,12 @@
+{
+    "idle" : {
+        "src_dir" : "./idle/",
+        "frame_time_s" : 1.0,
+        "loop" : true
+    },
+    "swing" : {
+        "src_dir" : "./swing/",
+        "frame_time_s" : 0.2,
+        "loop" : true
+    }
+}

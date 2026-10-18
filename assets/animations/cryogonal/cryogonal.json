@@ -1,0 +1,7 @@
+{
+    "idle" : {
+        "src_dir" : "./idle/",
+        "frame_time_s" : 1.0,
+        "loop" : true
+    }
+}
